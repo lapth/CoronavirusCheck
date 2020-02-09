@@ -1,0 +1,27 @@
+{
+  "name": "CoronaVirusCheck",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "react": "16.8.3",
+    "react-native": "0.59.9",
+    "react-native-gesture-handler": "1.1.0",
+    "react-native-image-zoom-viewer": "2.2.14",
+    "react-native-splash-screen": "3.2.0",
+    "react-native-vector-icons": "6.4.2",
+    "react-native-webview": "5.12.1",
+    "react-navigation": "3.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/runtime": "^7.8.4",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.58.0",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
