@@ -11,7 +11,7 @@
     "react-native-splash-screen": "3.2.0",
     "react-native-vector-icons": "6.4.2",
     "react-native-webview": "5.12.1",
-    "react-navigation": "3.4.0"
+    "react-navigation": "5.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
